@@ -2,7 +2,7 @@
   "name": "persons-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/reynacerda/AppPersonsReact",
+  "homepage": "https://reynacerda.github.io/AppPersonsReact",
   "proxy": "https://localhost:44337/api/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
